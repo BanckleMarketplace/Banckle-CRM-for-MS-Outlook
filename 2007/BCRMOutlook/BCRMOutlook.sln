@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BCRMOutlook", "BCRMOutlook\BCRMOutlook.csproj", "{FC9C59B9-864C-4B64-A490-0270732EB6F9}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "BanckleCRM", "BanckleCRM\BanckleCRM.vdproj", "{D59D5493-6F6B-46E5-AEE4-E3B11445591D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FC9C59B9-864C-4B64-A490-0270732EB6F9}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9C59B9-864C-4B64-A490-0270732EB6F9}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{FC9C59B9-864C-4B64-A490-0270732EB6F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC9C59B9-864C-4B64-A490-0270732EB6F9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D59D5493-6F6B-46E5-AEE4-E3B11445591D}.Debug|Any CPU.ActiveCfg = Release
+		{D59D5493-6F6B-46E5-AEE4-E3B11445591D}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
